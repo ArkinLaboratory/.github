@@ -12,12 +12,11 @@ For full lab details, visit [arkinlab.bio](https://arkinlab.bio) or [Google Scho
 
 | Program | Role | Description | Link |
 |---------|------|-------------|------|
-| ENIGMA | Lead | DOE SFA for understanding microbial community dynamics in contaminated environments | [enigma.lbl.gov](https://enigma.lbl.gov) |
-| KBase | Lead (CEO) | Open-source platform for comparative functional genomics, systems and synthetic biology | [kbase.us](https://kbase.us) |
-| CUBES | Lead | NASA center for biological solutions for space exploration (biomanufacturing food, fuels, materials, pharmaceuticals for Mars missions) | [cubes.space](https://cubes.space) |
-| PROTECT | Lead | ARPA-H funded program engineering probiotic bacterial communities to prevent and treat lung pathogens | [protect.berkeley.edu](https://protect.berkeley.edu) |
-| Phage Foundry | Member | DOE BRaVE platform for high-throughput phage characterization and engineering of phage therapeutics against AMR pathogens (Led by Vivek Mutalik at LBNL) | [phagefoundry.org](https://phagefoundry.org) |
-| GapMind | Member | Automated annotation of metabolic pathway completeness in bacterial genomes (Part of Price Lab genomics tools suite) | [papers.genomics.lbl.gov](https://papers.genomics.lbl.gov) |
+| ENIGMA | Lead Lab | DOE SFA for understanding microbial community dynamics in contaminated environments | [enigma.lbl.gov](https://enigma.lbl.gov) |
+| KBase | Lead Lab | Open-source platform for comparative functional genomics, systems and synthetic biology | [kbase.us](https://kbase.us) |
+| CUBES | Lead Lab | NASA center for biological solutions for space exploration (biomanufacturing food, fuels, materials, pharmaceuticals for Mars missions) | [cubes.space](https://cubes.space) |
+| PROTECT | Lead Lab | ARPA-H funded program engineering probiotic bacterial communities to prevent and treat lung pathogens | [protect.berkeley.edu](https://protect.berkeley.edu) |
+| Phage Foundry | Member Lab | DOE BRaVE platform for high-throughput phage characterization and engineering of phage therapeutics against AMR pathogens (Led by Vivek Mutalik at LBNL) | [phagefoundry.org](https://phagefoundry.org) |
 
 ---
 
@@ -25,7 +24,7 @@ For full lab details, visit [arkinlab.bio](https://arkinlab.bio) or [Google Scho
 
 Interactive tools for functional annotation of bacterial genomes developed by the lab and close collaborators, primarily Morgan Price (LBNL).
 
-Reference: Price & Arkin (2024) "Interactive Tools for Functional Annotation of Bacterial Genomes" [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.04.15.589591v1)
+Reference: Price & Arkin (2024) "Interactive Tools for Functional Annotation of Bacterial Genomes" [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11378808/)
 
 | Tool | URL | What It Does |
 |------|-----|-------------|
@@ -49,8 +48,8 @@ Reference: Price & Arkin (2024) "Interactive Tools for Functional Annotation of 
 
 | Repository | Description |
 |------------|-------------|
-| handbook | Lab documentation: onboarding, compute resources, project organization |
-| ai-skills-workshop | Learn to build AI skills and MCP servers for biological research |
+| [handbook](https://github.com/ArkinLaboratory/handbook) | Lab documentation: onboarding, compute resources, project organization |
+| [ai-skills-workshop](https://github.com/ArkinLaboratory/ai-skills-workshop) | Learn to build AI skills and MCP servers for biological research |
 
 ---
 
